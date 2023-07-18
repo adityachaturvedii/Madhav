@@ -12,3 +12,4 @@ def StringChallenge(str):
 input_str ="564244342544443"
 result = StringChallenge(input_str)
 print(result)
+print("Aditya")
